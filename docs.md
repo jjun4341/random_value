@@ -1,4 +1,4 @@
-# random_value docs
+# randomvalue docs
 
 ## Error
 
