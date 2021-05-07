@@ -11,9 +11,9 @@ setuptools.setup(
     description="This package returns an arbitrary value (string, number).",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/jjun4341/random_value",
     project_urls={
-        "Bug Tracker": "https://github.com/pypa/sampleproject/issues",
+        "Bug Tracker": "https://github.com/jjun4341/random_value/issues",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
