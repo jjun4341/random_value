@@ -3,8 +3,13 @@
 
 
 ## How to use
-pip install random_value
 
+first. install this package.
+```
+pip install random_value
+```
+
+second. use this package.
 ```python
 from random_value import *
 
